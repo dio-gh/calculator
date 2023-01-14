@@ -2318,7 +2318,7 @@
     <comment>{Locked="%1"}. Copyright statement, displayed on the About panel. %1 = the current year (4 digits)</comment>
   </data>
   <data name="AboutControlContribute" xml:space="preserve">
-    <value>Ha tudni szeretné, hogy miként működhet a Windows Számológép számára, nézze meg a projektet %HL%GitHub%HL%.</value>
+    <value>Ha tudni szeretné hogyan működhet közre a Windows Számológép fejlesztésében, tekintse meg a projektet a %HL%GitHubon%HL%.</value>
     <comment>{Locked="%HL%GitHub%HL%"}. GitHub link, Displayed on the About panel</comment>
   </data>
   <data name="AboutGroupTitle.Text" xml:space="preserve">
